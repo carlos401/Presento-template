@@ -1,5 +1,2 @@
 # What is Presento ?
 Presento is a popular template for the LateX presentation's editor called Beamer. So, I'm translating this template from LateX to OTP format.  The template is clean, simple and extensible, like its original creator, Ratul Saha, says. It offers a very modern, formal and interesting alternative to create the best presentations.
-# How does it look ?
-
-![Page tittle](https://lh3.googleusercontent.com/rbDj9s2yXTm7r3ikh1TsI5WDaWD_9cZDtsKcXXFZqYVnrP0TLDgRY4FIsCaahNRc7a06zrmxSTa8q1HbVUzamKFyqrCbx2XzKmcLvVQNO-e7jlun0u-pqZv5AZPRr89BkbChXFbRzSv5RV2s5TQOfZ6PMQ3QeXRu5ZL3V79nI4YlUZ1Gfahx7CrojXE0BIwEBhvHHBnhrNahH2dnhtcHPzuGXXlMkZoqWEC6wO0gyyfK7jQezjcCX0egnAF9ryN5vnUa6c7j1KvirvHTSbA9bOSyH-RbkM0uGqaT2TjKCffEugl7WlS8NxlzMCMugnF596jSD3vM84d5UBXscqEMswzAorlXUY0khBKVOS5W1bs24sgVj9kmtXf0WkA5VORhrDd4anVr9LZ1M80C3BapPpRw6tQ2ITGujhwiXXjCWZGbU32iJzOiZHjQh7C7RvE7sQVSgHl_9brVUn8V54XP1Xm1_RwI26MRZhN3HPILVyMfleSI3IhNzWDpU0bf8UnKINEl56enkZ5D5331_YuimeQ3zBX2MWi475ky_ghIo6GBnMoMRtNp4at1vj4KBTQbGJWXs1SFxcoerhEwb9NDoHmzsZasjdtPu30Gs1UfXx8RwXMCzyXl4DjQ=w1641-h923-no)
