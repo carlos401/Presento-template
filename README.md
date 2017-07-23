@@ -6,7 +6,7 @@ Presento is a popular template for the LateX presentation's class called Beamer.
 
 ## Some examples
 
-* Default PDF avalaible on https://drive.google.com/open?id=0B6oWXgxRCoLcNmdBbDVmdERwUDQ.
+* [Watch the default PDF](https://github.com/carlos401/Presento-template/blob/master/DEMO/Default.pdf)
 
 ---
 
