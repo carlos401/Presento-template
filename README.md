@@ -12,7 +12,7 @@ Presento is a popular template for the LateX presentation's class called Beamer.
 
 ## Contributors
 
-Carlos A Delgado Rojas <delgadocarlos401@outlook.com>
+Carlos A Delgado Rojas <delgadocarlos401@protonmail.com>
 
 ---
 
